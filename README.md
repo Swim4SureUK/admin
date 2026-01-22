@@ -1,2 +1,2 @@
-# swim4sure-admin
+# admin
 Swim4Sure UK Business Administration Portal
